@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Gayatri Duse</h1>
 <h3 align="left">A curious being who loves to learn and build new things 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrii4506&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrii4506" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrii4506" alt="gayatrii4506" /></a> </p>
 
 - 🌱 I’m currently learning **Python,little bit of AI/ML and DSA**
