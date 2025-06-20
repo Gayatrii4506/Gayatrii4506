@@ -78,7 +78,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatrii4506&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
@@ -89,5 +89,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatrii4506&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gayatrii4506&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
