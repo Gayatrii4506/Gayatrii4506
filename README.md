@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Gayatri Duse</h1>
+<h1 align="left">About me:</h1>
+<h3 align="left">I'm Gayatri!</h3>
 <h3 align="left">🚀 A curious being who loves to learn and build cool things</h3>
 
 <p align="left">
