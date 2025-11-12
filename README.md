@@ -1,119 +1,113 @@
-<h1 align="left">👋 Hey there, I'm Gayatri!</h1>
+<!-- Profile Header -->
+<h1 align="center">🌸 Hey there, I'm <span style="color:#a259ff;">Gayatri Duse</span>!</h1>
+<h3 align="center">🚀 A Passionate Learner | Developer | Creator</h3>
 
-<h3 align="left">🚀 A Curious Soul Who Loves to Learn, Build, and Explore</h3>
-
-<p align="left">
-  I’m passionate about <b>creating meaningful tech experiences</b> — from interactive UIs to smart AI-powered solutions.<br/>
-  Whether it’s full-stack development, design, or machine learning, I love experimenting and learning through building.<br/>
-  🌱 <b>Believer in “Build. Break. Learn. Repeat.”</b>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A259FF&center=true&vCenter=true&width=600&lines=Curious+Mind+%7C+Full+Stack+Explorer;Building+AI+and+Interactive+Tech;Believer+in+'Build+Break+Learn+Repeat'+🌱" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌱 What I’m Currently Learning
+### 👩‍💻 About Me
+💫 I’m a **Computer Engineering student** who loves turning ideas into digital experiences.  
+💡 Passionate about **full-stack development**, **AI/ML**, and **interactive technologies**.  
+💭 I learn best by doing — even if it means debugging for hours 😅.  
+🤝 Always open to **collaborations**, creative ideas, and hackathons!
+
+---
+
+### 📚 Currently Learning
 - 🐍 Python  
 - ⚙️ Data Structures & Algorithms (DSA)  
-- 🤖 Fundamentals of AI/ML  
+- 🤖 AI/ML Fundamentals  
+- 🌐 Full-Stack Web Development  
 
 ---
 
 ### 💬 Ask Me About
-- How I learn and build my projects  
-- My favorite tools and tech stack  
-- My ongoing or upcoming projects  
+- My learning journey & projects  
+- My favorite tools & tech stack  
+- My hackathon experiences & teamwork  
 
 ---
 
-### 📫 Let's Connect
-- ✉️ **gayatriduse4506@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/gayatri-duse-bab370289/)  
-- 🌐 [GitHub Portfolio](https://github.com/gayatrii4506)
-
----
-
-### ⚡ Fun Fact
-> I love building things — even when they fail, they always teach something new!
+### 📫 Connect with Me
+<p align="left">
+  <a href="mailto:gayatriduse4506@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gayatri-duse-bab370289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/gayatrii4506">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
 </p>
 
-### 🌐 Web Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular"/>
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,next,vue,angular" />
 </p>
 
 ### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,php,mysql,mongodb,firebase" />
 </p>
 
-### 🧠 AI / ML Tools
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit Learn"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/>
+### 🧠 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit Learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
 </p>
 
-### ☁️ Cloud & Dev Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="Unity"/>
+### ☁️ Dev Tools & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,postman,docker,figma,unity" />
 </p>
 
 ### 📊 Data Visualization
-<p align="left">
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40" alt="Chart.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40" alt="D3.js"/>
-  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" width="40" height="40" alt="CanvasJS"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=d3js" />
+  <img src="https://www.chartjs.org/media/logo-title.svg" width="50" height="50" alt="Chart.js"/>
+  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" width="50" height="50" alt="CanvasJS"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayatrii4506&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gayatrii4506&theme=tokyonight&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatrii4506&show_icons=true&theme=onedark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatrii4506&show_icons=true&layout=compact&theme=onedark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatrii4506&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrii4506&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gayatrii4506&theme=onedark&hide_border=true" height="160" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=gayatrii4506&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
 
+## 💖 Quote I Live By
 <p align="center">
-  <i>“Keep learning, keep building — that’s where the magic happens.” ✨</i>
+  <i>“Keep learning, keep building — every bug is just a step closer to mastery.” ✨</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
