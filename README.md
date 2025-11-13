@@ -105,7 +105,7 @@
 
 ## 💖 Quote I Live By
 <p align="center">
-  <i>“Keep learning, keep building — every bug is just a step closer to mastery.” ✨</i>
+  <i>“The best is yet to come!” ✨</i>
 </p>
 
 <p align="center">
