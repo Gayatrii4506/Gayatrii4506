@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">🌸 Hey there, I'm <span style="color:#a259ff;">Gayatri Duse</span>!</h1>
+<h1 align="center">Hey there, I'm <span style="color:#a259ff;">Gayatri!</span>!</h1>
 <h3 align="center">🚀 A Passionate Learner | Developer | Creator</h3>
 
 <p align="center">
