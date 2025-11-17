@@ -1,11 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there, I'm <span style="color:#a259ff;">Gayatri!</span>!</h1>
 <h3 align="center">🚀 A Passionate Learner | Developer | Creator</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A259FF&center=true&vCenter=true&width=600&lines=Curious+Mind+%7C+Full+Stack+Explorer;Building+AI+and+Interactive+Tech;Believer+in+'Build+Break+Learn+Repeat'+🌱" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
