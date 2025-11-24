@@ -1,7 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there, I'm <span style="color:#a259ff;">Gayatri!</span>!</h1>
 <h3 align="center">🚀 A Passionate Learner | Developer | Creator</h3>
----
 
 ### 👩‍💻 About Me
 💫 I’m a **Computer Engineering student** who loves turning ideas into digital experiences.  
