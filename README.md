@@ -1,94 +1,82 @@
-<!-- Profile Header -->
-<h1 align="center">Hey there, I'm <span style="color:#a259ff;">Gayatri!</span>!</h1>
-<h3 align="center">🚀 A Passionate Learner | Developer | Creator</h3>
+# Hi, I’m Gayatri 👋
 
-### 👩‍💻 About Me
-💫 I’m a **Computer Engineering student** who loves turning ideas into digital experiences.  
-💡 Passionate about **full-stack development**, **AI/ML**, and **interactive technologies**.  
-💭 I learn best by doing — even if it means debugging for hours 😅.  
-🤝 Always open to **collaborations**, creative ideas, and hackathons!
+<h3 align="center">🚀 Computer Engineering Student • Full‑Stack Developer • AI/ML Enthusiast</h3>
 
 ---
 
-### 📚 Currently Learning
-- 🐍 Python  
-- ⚙️ Data Structures & Algorithms (DSA)  
-- 🤖 AI/ML Fundamentals  
-- 🌐 Full-Stack Web Development  
+## About Me
+I’m Gayatri — a curious and persistent Computer Engineering student who loves building things, learning by doing, and exploring how AI and software can solve real problems.
+
+- 🔭 Currently learning: Python, Data Structures & Algorithms, AI/ML fundamentals, and full‑stack web development  
+- 💡 Interests: Full‑stack development, machine learning, computer vision, data visualization, and product prototyping  
+- 🎯 Strengths: Problem‑solving, quick learner, team collaboration, and debugging until it works  
+- 🤝 I’m open to collaborations, mentorship, and hackathons
 
 ---
 
-### 💬 Ask Me About
-- My learning journey & projects  
-- My favorite tools & tech stack  
-- My hackathon experiences & teamwork  
+## Tech Stack
 
----
-
-### 📫 Connect with Me
-<p align="left">
-  <a href="mailto:gayatriduse4506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/gayatri-duse-bab370289/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/gayatrii4506">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" alt="Languages" />
 </p>
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,next,vue,angular" alt="Frontend" />
 </p>
 
-### 🌐 Frontend
+### Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,next,vue,angular" />
+  <img src="https://skillicons.dev/icons?i=django,php,mysql,mongodb,firebase" alt="Backend & Databases" />
 </p>
 
-### ⚙️ Backend & Databases
+### AI / ML & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,php,mysql,mongodb,firebase" />
-</p>
-
-### 🧠 AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit Learn"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
 </p>
 
-### ☁️ Dev Tools & Cloud
+### Tools, Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,postman,docker,figma,unity" />
-</p>
-
-### 📊 Data Visualization
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=d3js" />
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="50" height="50" alt="Chart.js"/>
-  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" width="50" height="50" alt="CanvasJS"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,postman,docker,figma,unity" alt="Tools & Cloud" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## Selected Projects
+> Replace these placeholders with links and short descriptions for your projects.
+
+- **Project Name** — Short, one-line description. Tech: React, Django, PostgreSQL.  
+  Link: https://github.com/gayatrii4506/project-name
+
+- **Image Processing / CV Project** — Built a small computer vision app to detect/track objects using OpenCV and TensorFlow.  
+  Link: https://github.com/gayatrii4506/cv-project
+
+- **Web App / Full‑Stack** — Interactive web app with user authentication, REST API, and a responsive frontend.  
+  Link: https://github.com/gayatrii4506/webapp
+
+Tip: For each project include a one-sentence problem statement, your role, main tech, and a demo or screenshot if available.
+
+---
+
+## What I’m Learning & Practicing
+- Systematic DSA practice (arrays, graphs, trees)
+- Model-building and deployment for small ML projects
+- Building polished user interfaces and data visualizations
+- Contributing to open source and collaborating in teams
+
+---
+
+## GitHub & Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gayatrii4506&theme=tokyonight&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
 </p>
 
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatrii4506&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrii4506&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatrii4506&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrii4506&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -97,10 +85,29 @@
 
 ---
 
-## 💖 Quote I Live By
-<p align="center">
-  <i>“The best is yet to come!” ✨</i>
+## Contact
+<p align="left">
+  <a href="mailto:gayatriduse4506@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/gayatri-duse-bab370289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/gayatrii4506">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+---
+
+## Quick Tips to Customize
+- Replace project placeholders with your repository links and short descriptions.  
+- Update the “Currently learning” and “Selected Projects” sections as you finish new work.  
+- To add screenshots or demos, include images in the repo and reference them with relative paths.
+
+---
+
+> “The best is yet to come!” ✨
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
