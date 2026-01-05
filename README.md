@@ -44,29 +44,6 @@ I enjoy working at the intersection of **software engineering and artificial int
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman" />
 </p>
 
----
-
-## 📚 What I’m Learning & Practicing
-- Structured **DSA practice** (arrays, trees, graphs)
-- Building **ML models** and experimenting with datasets
-- Creating **clean & responsive UIs**
-- Writing **maintainable and readable code**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatrii4506&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrii4506&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gayatrii4506&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 📬 Let’s Connect
 <p align="center">
   <a href="mailto:gayatriduse4506@gmail.com">
