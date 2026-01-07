@@ -62,3 +62,6 @@ I enjoy working at the intersection of **software engineering and artificial int
 <p align="center">
   <i>“The best is yet to come.” ✨</i>
 </p>
+---
+
+https://komarev.com/ghpvc/?username=Gayatrii4506&style=for-the-badge&color=00FFFF
