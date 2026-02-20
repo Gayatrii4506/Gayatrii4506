@@ -13,7 +13,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://gayatriduse.onrender.com">
+  <a href="https://portfolio-website-kf3b.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-7F7FFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/gayatri-duse-bab370289/">
