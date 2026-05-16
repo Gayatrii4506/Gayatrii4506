@@ -13,9 +13,9 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <!-- <a href="https://portfolio-website-kf3b.onrender.com">
+  <a href="https://gayatri-duse.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-7F7FFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a> -->
+  </a>
   <a href="https://linkedin.com/in/gayatri-duse-bab370289/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
